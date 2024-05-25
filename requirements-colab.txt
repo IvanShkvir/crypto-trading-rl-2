@@ -1,0 +1,7 @@
+gym-trading-env
+quantstats
+mplfinance
+pandas-ta
+
+stable-baselines3==2.1.0
+sb3-contrib

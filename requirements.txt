@@ -1,0 +1,14 @@
+jupyterlab
+numpy
+pandas
+pandas-ta
+mplfinance
+
+gym-trading-env
+quantstats
+scikit-learn
+
+torch
+tensorboard
+stable-baselines3
+sb3-contrib
